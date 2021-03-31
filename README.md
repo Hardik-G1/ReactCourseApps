@@ -1,5 +1,5 @@
 ﻿# ReactCourseApps
-<h3>All the applications in the Colt steele Course - The Modern React Bootcamp (Hooks, Context, NextJS, Router) with some modifications and extra features.</h3>
+<h3>All the applications in the Colt Steele Udemy Course - The Modern React Bootcamp (Hooks, Context, NextJS, Router) with some modifications and extra features.</h3>
 Some of them are:
 <ul>
   <li>
